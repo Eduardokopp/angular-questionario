@@ -1,7 +1,6 @@
-# Questionario em Angular
+# ProjetoBuzzfeed
 
-Projeto criado com o bootcamp Potência Tech Angular Developer - Powered by iFood disponibilizado pela dio.me 
-Foi utilizado um json como dataSet para simular o banco de dados com as perguntas, assim realizadno uma tela singlepage de questionario com a logica e algoritiomo para as respostas
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
 ## Development server
 
